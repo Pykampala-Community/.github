@@ -1,2 +1,2 @@
 # Pykampala Community
-![logo](assets/pykampala4.png)
+![logo](../assets/pykampala4.png)
